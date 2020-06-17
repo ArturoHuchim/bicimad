@@ -1,4 +1,4 @@
-# BiciMAD
+# ANÁLISIS DE PATRONES DEL SISTEMA DE TRANSPORTE PÚBLICO BICIMAD
 
 El siguiente repositorio es sobre el Trabajo de fin de Máster llamado: *ANÁLISIS DE PATRONES DEL SISTEMA DE TRANSPORTE PÚBLICO BICIMAD* el cual tiene como objetivo realizar un análisis sobre el Sistema de Transporte Público de Madrid en específico, las líneas de autobús de EMT y el sistema de bicicletas BiciMAD, con la finalidad de ofrecer recomendaciones sobre qué medio de transporte es el más adecuado para realizar trayectos similares a alguna línea de autobús para con ello, hacer más eficiente el Sistema de Transporte.
 Para el desarrollo de este proyecto, se emplean técnicas de procesamiento Big Data debido a que las tecnologías y técnicas convencionales para transformar, modelar y analizar los datos son insuficientes para cubrir las necesidades que este trabajo demanda. 
