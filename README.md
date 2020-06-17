@@ -1,6 +1,8 @@
 # BiciMAD
 
-Los scripts de este repositorio se corresponden con lo especificado en el documento. A continuación, se presenta una listado de apartados que se encuentran en las carpetas de encabezado.
+El siguiente repositorio es sobre el Trabajo de fin de Máster llamado: *ANÁLISIS DE PATRONES DEL SISTEMA DE TRANSPORTE PÚBLICO BICIMAD* el cual tiene como objetivo realizar un análisis sobre el Sistema de Transporte Público de Madrid en específico, las líneas de autobús de EMT y el sistema de bicicletas BiciMAD, con la finalidad de ofrecer recomendaciones sobre qué medio de transporte es el más adecuado para realizar trayectos similares a alguna línea de autobús para con ello, hacer más eficiente el Sistema de Transporte.
+Para el desarrollo de este proyecto, se emplean técnicas de procesamiento Big Data debido a que las tecnologías y técnicas convencionales para transformar, modelar y analizar los datos son insuficientes para cubrir las necesidades que este trabajo demanda. 
+Al final, el objetivo es realizar un dashboard que se encuentra en el apartado de Tableau: Capítulo 5 donde se presentan los resultados del estudio.
 
 3.	Adquisición de datos
 * 3.1.1.1. Transport Busetmad.ipynb
@@ -47,9 +49,15 @@ Los scripts de este repositorio se corresponden con lo especificado en el docume
   * 5.2.1 Viajes en función de la línea
   * 5.2.2 Tipos de usuario
   * 5.2.3 Rango de edades
-* Anexos
-  * AnexoC.ipynb
+* Anexo C
+  - AnexoC.ipynb
 * Tableau
-  * AnexoC.twb
-  * Capitulo4.twb
-  * Capitulo5.twb
+  - Capítulo 4
+    * Capitulo 4.twbx
+    * 4.5. Fases BiciMAD.twbx
+    * Scripts_Adicionales_Tableau_Capitulo_4.ipynb
+  - Capítulo 5
+    * Capítulo 5.twbx
+    * Scripts_Adicionales_Tableau_Capitulo_5.ipynb
+  - Anexo C
+    * Anexo C.twb
